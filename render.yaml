@@ -2,7 +2,7 @@ databases:
   - name: myblogdb
     plan: free
     databaseName: myblogdb
-    user: postgres
+    user: valery
 
 services:
   - type: web
